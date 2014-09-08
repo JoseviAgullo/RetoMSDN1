@@ -15,7 +15,7 @@ namespace RetoMSDN1
                 return null;
             }
 
-            List<Persona> listaDevolver = new List<Persona>();
+            List<Persona> listaDevolver = listaInicial.OrderByDescending(x => x.Edad).ThenBy(x => x.Nombre).ToList();
 
             return listaDevolver;
         }
