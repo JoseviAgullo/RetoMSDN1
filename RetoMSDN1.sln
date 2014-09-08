@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetoMSDN1", "RetoMSDN1\RetoMSDN1.csproj", "{27EBE3CC-007B-429D-94B5-01A7880EB319}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reto1UnitTest", "..\..\..\..\Desktop\retos-master\Reto 1\Reto1UnitTest\Reto1UnitTest.csproj", "{ADAB5C0C-0485-4589-A5B4-0B244E956048}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{27EBE3CC-007B-429D-94B5-01A7880EB319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27EBE3CC-007B-429D-94B5-01A7880EB319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27EBE3CC-007B-429D-94B5-01A7880EB319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAB5C0C-0485-4589-A5B4-0B244E956048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAB5C0C-0485-4589-A5B4-0B244E956048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAB5C0C-0485-4589-A5B4-0B244E956048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAB5C0C-0485-4589-A5B4-0B244E956048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

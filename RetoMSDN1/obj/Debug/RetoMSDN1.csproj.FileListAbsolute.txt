@@ -1,0 +1,5 @@
+C:\Users\Josevi\documents\visual studio 2013\Projects\RetoMSDN1\RetoMSDN1\bin\Debug\RetoMSDN1.dll
+C:\Users\Josevi\documents\visual studio 2013\Projects\RetoMSDN1\RetoMSDN1\bin\Debug\RetoMSDN1.pdb
+C:\Users\Josevi\documents\visual studio 2013\Projects\RetoMSDN1\RetoMSDN1\obj\Debug\RetoMSDN1.csprojResolveAssemblyReference.cache
+C:\Users\Josevi\documents\visual studio 2013\Projects\RetoMSDN1\RetoMSDN1\obj\Debug\RetoMSDN1.dll
+C:\Users\Josevi\documents\visual studio 2013\Projects\RetoMSDN1\RetoMSDN1\obj\Debug\RetoMSDN1.pdb

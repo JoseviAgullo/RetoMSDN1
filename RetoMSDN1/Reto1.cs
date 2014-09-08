@@ -10,6 +10,11 @@ namespace RetoMSDN1
     {
         public static List<Persona> OrdenarLista(List<Persona> listaInicial)
         {
+            if (listaInicial == null)
+            {
+                return null;
+            }
+
             List<Persona> listaDevolver = new List<Persona>();
 
             return listaDevolver;
