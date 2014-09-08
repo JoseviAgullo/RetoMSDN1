@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace RetoMSDN1
 {
-    public class Class1
+    public class Persona
     {
+        public string Nombre { get; set; }
+        public int Edad { get; set; }
+
     }
 }
